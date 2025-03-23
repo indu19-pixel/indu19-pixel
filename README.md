@@ -28,7 +28,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I'm a final-year **B.Tech Computer Science student** at **G. Pullaiah College of Engineering and Technology** with a passion for **Java,Python,Web Development, Data Structures & Algorithms, and IoT**.<br><br>
+I'm a final-year **B.Tech Computer Science IoT student** at **G. Pullaiah College of Engineering and Technology** with a passion for **Java,Python,Web Development, Data Structures & Algorithms, and IoT**.<br><br>
 - 🔭 Currently interning as a **Core Java Intern at Sure Trust**<br>
 - 🔭 Completed internship as a **Web Devlopment Intern at Oasis Infobyte**<br>
 - 📚 I'm expanding my skills in **Java, Python, and SQL**<br>
@@ -77,7 +77,7 @@ I'm a final-year **B.Tech Computer Science student** at **G. Pullaiah College of
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My Status :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=indu19-pixel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
